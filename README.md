@@ -2,7 +2,7 @@
 <!--
 **Tonyynf/Tonyynf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Salve! Eu sou Anthony o Dev desse perfil, bom te ver por aqui, fica a vontade para explorar os repostorios!
+## Pode ficar a vontade para explorar os repostorios!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
