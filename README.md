@@ -5,8 +5,7 @@
 ## Pode ficar a vontade para explorar os repostorios!
   <br>
 
-  <center>
-    <picture>
+<picture style="text-align: center;">
   
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tonyynf&show_icons=true&theme=dark"
@@ -17,8 +16,9 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=tonyynf&show_icons=true" />
+  
 </picture>
-</center>
+
 
 <br>
 <br>
