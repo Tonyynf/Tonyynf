@@ -6,3 +6,5 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Apaixonado por tecnologia e desenvolvimento de software <br>
 🚀 Buscando desafios e aprendizado contínuo
+
+<i class="bi bi-linkedin"></i>
