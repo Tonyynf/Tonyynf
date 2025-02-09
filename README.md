@@ -3,24 +3,10 @@
 **Tonyynf/Tonyynf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Oi, Meu nome é Anthony! 
-### Fica à vontade para explorar os repostórios!
+### Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e desenvolvimento de software.
   <br>
 
 <picture style="text-align: center;">
-  
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tonyynf&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tonyynf&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tonyynf&show_icons=true" />
-  
-</picture>
-
-
 <br>
 <br>
  
