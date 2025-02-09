@@ -8,6 +8,4 @@
 🚀 Buscando desafios e aprendizado contínuo. <br>
 📤 2025 metas: criar um novo projeto para encontrar um trabalho na área.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonyencarnação/)](https://www.linkedin.com/in/anthonyencarnação/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tonyynf)](https://github.com/Tonyynf) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonyencarnação/)](https://www.linkedin.com/in/anthonyencarnação/)
