@@ -10,12 +10,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tonyynf)](https://github.com/Tonyynf) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonyencarnação/)](https://www.linkedin.com/in/anthonyencarnação/)
 
-<div align="left">
-   <a href="www.linkedin.com/in/anthonyencarnação"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
-   <a href="https://github.com/Tonyynf"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /></a>
-</div>
-
-
  ⬇️ Conhecimentos ⬇️<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
