@@ -2,7 +2,7 @@
 <!--
 **Tonyynf/Tonyynf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Anthony Encarnação | Estudante de ADS em transição para Desenvolvedor Backend.
+## Anthony Encarnação | Desenvolvedor Backend.
 🎓 Desenvolvedor de Sistemas <br>
 💻 Apaixonado por tecnologia e desenvolvimento de software <br>
 🚀 Buscando desafios e aprendizado contínuo. <br><br>
